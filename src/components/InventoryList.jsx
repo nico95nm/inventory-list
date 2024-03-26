@@ -45,7 +45,7 @@ const InventoryList = () => {
               <p className="my-2 text-xl">
                 <strong>{item.name}</strong> {item.picture} of type{' '}
                 <strong>{item.type}</strong> costs <strong>{item.price}</strong>{' '}
-                INR/KG.
+                EUR/KG.
               </p>
               <p className="mb-2 text-lg">
                 Available in Stock: <strong>{item.quantity}</strong>

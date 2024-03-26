@@ -4,7 +4,7 @@
       "id": 1,
       "picture": "🍌",
       "name": "Banana",
-      "price": 32,
+      "price": 1.5,
       "quantity": 200,
       "type": "fruits"
     },
@@ -12,15 +12,15 @@
       "id": 2,
       "picture": "🍓",
       "name": "Strawberry",
-      "price": 52,
+      "price": 0.99,
       "quantity": 100,
-      "type": "fruits"
+      "type": "Fruits"
     },
     {
       "id": 3,
       "picture": "🍗",
       "name": "Checken",
-      "price": 110,
+      "price": 2.0,
       "quantity": 190,
       "type": "foods",
       "sub-type": "Non-Veg"
@@ -29,7 +29,7 @@
       "id": 4,
       "picture": "🥬",
       "name": "Lettuce",
-      "price": 12,
+      "price": 0.65,
       "quantity": 50,
       "type": "Vegetables"
     },
@@ -37,7 +37,7 @@
       "id": 5,
       "picture": "🍅",
       "name": "Tomato",
-      "price": 31,
+      "price": 1.6,
       "quantity": 157,
       "type": "Vegetables"
     },
@@ -46,16 +46,24 @@
       "picture": "🥩",
       "name": "Mutton",
       "price": 325,
-      "quantity": 90,
+      "quantity": 3.0,
       "type": "Non-Veg"
     },
     {
       "id": 7,
       "picture": "🥕",
       "name": "Carrot",
-      "price": 42,
+      "price": 1.5,
       "quantity": 190,
       "type": "Vegetables"
+    },
+    {
+      "id": 8,
+      "picture": "🍎",
+      "name": "Apple",
+      "price": 1.75,
+      "quantity": 190,
+      "type": "Fruits"
     }
   ]
 }
